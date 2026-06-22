@@ -1,1 +1,1 @@
-# Seguimiento_Generaci-n_Renovable
+![Reporte de Energía](./dashboard_generacion.png)
